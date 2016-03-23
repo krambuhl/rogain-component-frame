@@ -1,7 +1,7 @@
 {
   "name": "rogain-component-frame",
   "version": "1.0.0",
-  "description": "Rogain Children helper component",
+  "description": "Rogain <Frame /> helper component",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.test.js"
