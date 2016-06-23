@@ -1,6 +1,6 @@
 {
   "name": "rogain-component-frame",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Rogain <Frame /> helper component",
   "main": "index.js",
   "scripts": {
